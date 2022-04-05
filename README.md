@@ -1,4 +1,4 @@
-# Prova Prover
+# Prova MED GROUP
 
 Para execução do projeto é necessário realizar os seguintes passos:
 
